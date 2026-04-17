@@ -253,7 +253,6 @@ selected_df = st.data_editor(
 )
 
 download_data = selected_df[selected_df["Select"] == True].drop(columns=["Select"])
-
 if not download_data.empty:
     csv_selected = download_data.to_csv(index=True, encoding="utf-8-sig").encode("utf-8-sig")
 
