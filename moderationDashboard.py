@@ -137,7 +137,7 @@ if 'cumulative_df' not in st.session_state:
     st.session_state.cumulative_df = load_cumulative_data()
 
 # Create tabs for each page
-tabs = st.tabs(PAGES.keys())
+tabs = st.tabs(list(PAGES.keys()))
 
 for i, (page_name, token) in enumerate(PAGES.items()):
     with tabs[i]:
