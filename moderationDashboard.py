@@ -21,7 +21,7 @@ st.caption("Extracts phone numbers from page inbox and saves new, unique entries
 # PAGE TOKENS (Using tokens from your original code)
 # --------------------------------------------
 PAGES = {
-    "تركيبات صيدليات العقبي": "EAAUiOffZAWkEBRGOzkLjNasBnQ3yVOKe1OmM7ZCayOwrzB4doenDKEgRRkRuFbIgrvYjgUqXe0DZAtiSKWg1iCBAMDMeQAJZAMsz5vhPZAjAmr67GggbLH18Kab2OxJ8KbJ7UphrcHPQAleZAARge6M6pKD2vCzKS5jXgWWR8jXx0YYPk9ISOUZASGXVGsKCVs5IzoTfuXIohrZAhEHMjI5c3PNE5O5GQgKyWUNh1fVllE0ZD",
+    "تركيبات صيدليات العقبي": "EAAUiOffZAWkEBRNg1HrUkXS3B7SDZAgK7CLZBufBiwJxfntF6FHZAaRaOZBVeAdy5SYSPl7n2Jfot1dvFtXn0snzMswJuPyDeZC2IhoBccti4wv5Og5JXvsKNgZCWSZCxZBZBctZBGlymKuArgmbTRJopHbMw4QmQaWFzuTeQLkNZBZCPD7jrlAzhKZBjZB09SQfSKaOliZB43tZAobiF",
     #"elokaby.com": "EAAIObOmY9V4BQeGKvIS9HT8XE3IA4DzGvC5JGZB1uM80PSYbqIAZCPrdwL51rN3RNNSsk6Oda3e3WEytdCka3DwPyRqwIfGU2DhDNVZB5PCOmDBxWWoWhbpjtPP9I3wlr9bBsy7rbw9oqrs5VngZAFCbP5O9unsJCgbZAEf9503MWtFAZA35YOZBuxzL35Penf8aBhRxosZD",
     #"صيدليات العقبي لتركيبات الشعر": "EAAIObOmY9V4BQQc5mCnkKAwcXhp81ztZBfOFMbYUqWSfZCaf0zZBtN9RrVqDOLoCrof5QpTnsdB69cFTZCzlEiK0Sn7r2ju6sgIylGudsTcSPJcd4Yq9XBX0EUiOvDZCVx2gXI2LEGzhtZAGi3htgCYYQ2h1dhZAFst0igZAUnnKT1qZANyRZBXSCeEi5SedT29ilXPczm0xpR",
     #"Taqsheer" :"EAAIObOmY9V4BQbaVhlITBzcrYLV8pZCcqufscX6DWoi1AsIvARHf3ZC3XS3EO7AV3S9yrSYw5X0gY9rch4bhYuUxwB9ZAkdZCMu7FoQAr1HZBjL89trZApzNDYiF65ssv4ux9hPcneY8FJrDgMxJWEMIOaILXD52mUMh4Iy5ouN3doV8ZAaXUfMyTKllU6ND1dEEVKT"
