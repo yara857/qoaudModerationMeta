@@ -21,7 +21,7 @@ st.caption("Extracts phone numbers from page inbox and saves new, unique entries
 # PAGE TOKENS (Using tokens from your original code)
 # --------------------------------------------
 PAGES = {
-    "تركيبات صيدليات العقبي": "EAAUiOffZAWkEBRNg1HrUkXS3B7SDZAgK7CLZBufBiwJxfntF6FHZAaRaOZBVeAdy5SYSPl7n2Jfot1dvFtXn0snzMswJuPyDeZC2IhoBccti4wv5Og5JXvsKNgZCWSZCxZBZBctZBGlymKuArgmbTRJopHbMw4QmQaWFzuTeQLkNZBZCPD7jrlAzhKZBjZB09SQfSKaOliZB43tZAobiF",
+    "تركيبات صيدليات العقبي": "EAARL4bYZBFscBREct1z5mmG8Nmbgw95D0jtxVKrHelBbUUNsOVkqxg7ZAAZALzaUFPL1NCGC7DU4vTq7vq68M6RJGv5OdTaLGqxGQCXvKP96XsrEBX40jsMcATJuGXd6dZB8ZApSzdq2FXqKV5TMpkL7TiugL0BxcJHCA1Fs1uEFGoIelzCT8gTqqZA3Y7K2gc9nthusZAMSC12w2PaZCOYlaD1UwM5X5THQ8KZCcy1N2ypIZD",
 }
 
 
